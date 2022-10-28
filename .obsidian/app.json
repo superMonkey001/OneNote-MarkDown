@@ -1,0 +1,9 @@
+{
+  "vimMode": true,
+  "useMarkdownLinks": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "./assets",
+  "newLinkFormat": "relative",
+  "fileSortOrder": "alphabetical",
+  "alwaysUpdateLinks": true
+}

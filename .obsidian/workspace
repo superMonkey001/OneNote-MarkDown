@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "94b8ef7648eb754c",
+    "type": "split",
+    "children": [
+      {
+        "id": "975a858c99fd36fb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "项目/黑马redis项目/项目笔记.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9525d3c704528d02",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad9182b85b288cf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ee6e22178f46cac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e7be07fe7b27335",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2cb062bac77c93cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15edd7af8603c35d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ddb7bc47a9f4dcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "413e2d3fc5b21cc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "项目/黑马redis项目/项目笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66b5f0fb2161d7c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "项目/黑马redis项目/项目笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c1c9182789d99ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "135526439946ccba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "项目/黑马redis项目/项目笔记.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "975a858c99fd36fb",
+  "lastOpenFiles": [
+    "项目/乐字节-秒杀项目/项目笔记.md",
+    "项目/黑马redis项目/项目笔记.md",
+    "后端/Nginx/黑马-Nginx/学习笔记.md",
+    "assets/1604636421045.png.md",
+    "后端/Nginx/黑马-Nginx/assets/1581762832290.png",
+    "assets/1587832596733.png.md",
+    "后端/Nginx/黑马-Nginx/assets/sendfile.excalidraw.md",
+    "后端/Nginx/黑马-Nginx/assets/Pasted image 20221008171632.png",
+    "assets/1581419902873.png.md",
+    "Java/Netty/Netty-黑马.md"
+  ]
+}
